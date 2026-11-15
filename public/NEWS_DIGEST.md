@@ -1,5 +1,3 @@
-Writing
-
 # NEWS\_DIGEST.md
 
 ## ROLE
